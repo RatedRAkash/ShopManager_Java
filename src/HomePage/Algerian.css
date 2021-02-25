@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 17, 2018, 7:12:38 AM
+    Author     : User
+*/
+
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size:  30px;
+    -fx-spacing: 20;
+    -fx-font-weight: bold;
+    -fx-font-family:  "Algerian";
+}
+.label{
+    -fx-text-fill: #84ccbb;
+}
+.button{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 9;
+}
+
+.button:hover{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.login_root{
+    //-fx-background-color: #383838;
+    -fx-font-size:  20px;
+    -fx-spacing: 20;
+    //-fx-font-weight: bold;
+}
+
+
+.button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+#bold-label{
+    -fx-font-weight: bold;
+}
